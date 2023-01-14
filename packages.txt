@@ -1,2 +1,2 @@
-libsndfile
+libsndfile1
 ffmpeg
