@@ -130,3 +130,5 @@ dmypy.json
 
 # package specific
 spleetipy/pretrained_models
+raw/*.mp3
+stemmed/*.mp3
